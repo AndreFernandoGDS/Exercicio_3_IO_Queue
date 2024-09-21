@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\Exercicio_3.bin'
+elf = 'build\Exercicio_3.elf'
